@@ -17,7 +17,7 @@
 
 ## INTRODUCTION
 
-Bellabeat is a high-tech driven manufacturer of health-focused smart products for women, aiming to empower them with knowledge about their health and habits. It is a successful small company, and has the potential to become a larger player in the global smart device market. Their app and devices collect data on activity, sleep, stress, menstrual cycle, and mindfulness habits.
+[Bellabeat](https://bellabeat.com/) is a high-tech driven manufacturer of health-focused smart products for women, aiming to empower them with knowledge about their health and habits. It is a successful small company, and has the potential to become a larger player in the global smart device market. Their app and devices collect data on activity, sleep, stress, menstrual cycle, and mindfulness habits.
  
 To unlock new growth opportunities in the global smart device market, Bellabeat aims to analyze smart device fitness data. They are keen to utilize consumer data for strategic insights and want to focus on analyzing the usage patterns of one of their products to optimize their marketing strategies: Bellabeat app.
 
@@ -34,7 +34,7 @@ The key stakeholders are:
 
 ## DATA SOURCES
 
-A public data set named Fitbit fitness tracker data containing the personal fitness data of 30 Fitbit users, made available by Mobius and stored on Kaggle website.
+A public data set named [Fitbit fitness tracker data](https://www.kaggle.com/datasets/arashnic/fitbit) containing the personal fitness data of 30 Fitbit users, made available by [Mobius](https://www.kaggle.com/arashnic) and stored on Kaggle website.
 
 ## LICENSING AND PRIVACY OF DATA
 
@@ -42,18 +42,19 @@ The data has been confirmed to be open source and so can be used without asking 
 
 ## DATA ORGANIZATION
 
-The 18 CSV documents are available with each document representing different quantitative data tracked by Fitbit; *CLICK HERE* to preview CSV datasets.
+The 18 CSV documents are available with each document representing different quantitative data tracked by Fitbit; [CLICK HERE]() to preview CSV datasets in *Bellabeat case study.docx*.
 
 ## OBJECTIVES
 
-Considering the datasets at my disposal, I intend to analyze user behavior primarily within daily time frames to identify overarching trends. I will concentrate on examining the daily activity and sleep datasets, sorting and filtering them using an Excel spreadsheet.
+Considering the datasets at my disposal, I intend to analyze user behavior primarily within daily time frames to identify overarching trends. I will concentrate on examining the *daily activity* and *sleep datasets*, sorting and filtering them using an Excel spreadsheet.
 
 ## CREDIBILITY OF THE DATASET 
 The data originates from a reliable source, but it's worth noting that the sample size is quite small, comprising only 30 users over 31 days. This small sample size raises concerns about potential sampling bias. Additionally, an important caveat is the absence of any demographic information in the dataset.
 
 ## TOOLS USED
-I made use of excel as my primary tool for data cleaning and manipulation due to its relative ease of use and accessibility and Tableau for visualization.
-I created a changelog documenting my analysis process within excel
+I made use of Excel as my primary tool for data cleaning and manipulation due to its relative ease of use and accessibility and Tableau for visualization.
+
+I created a changelog documenting my cleaning and formatting process within excel [CLICK HERE]()
 
 ## IMPORTING DATASETS INTO EXCEL
 Importing and optimizing FitBit Fitness Tracker data sets involves the removal of redundant datasets and aggregation of essential datasets required for querying and analyzing specific information.  Considering my emphasis on identifying high-level trends in the data for analysis, I opted to import and exclusively utilize the "Dailyactivities_merged”, "SleepDay_merged" and “Hourlysteps_merged” datasets.
