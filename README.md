@@ -41,7 +41,7 @@ The data has been confirmed to be open source and so can be used without asking 
 
 ## DATA ORGANIZATION
 
-The 18 CSV documents are available with each document representing different quantitative data tracked by Fitbit; [CLICK HERE]() to preview CSV datasets in *Bellabeat case study.docx*.
+The 18 CSV documents are available with each document representing different quantitative data tracked by Fitbit; [CLICK HERE]() to preview CSV datasets in *Bellabeat datasets.docx*.
 
 ## OBJECTIVES
 
