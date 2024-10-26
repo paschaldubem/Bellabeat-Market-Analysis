@@ -56,7 +56,7 @@ I made use of `Excel` as my primary tool for data cleaning and manipulation due 
 ## IMPORTING DATASETS INTO EXCEL
 Importing and optimizing FitBit Fitness Tracker data sets involves the removal of redundant datasets and aggregation of essential datasets required for querying and analyzing specific information.  Considering my emphasis on identifying high-level trends in the data for analysis, I opted to import and exclusively utilize the *Dailyactivities_merged*, *SleepDay_merged* and *Hourlysteps_merged* datasets.
 
-I created a CHANGELOG documenting my cleaning and formatting process within Excel [CLICK HERE](https://github.com/paschaldubem/Bellabeat-Market-Analysis/blob/main/BELLABEAT%20CHANGE%20LOG.pdf)
+I created a CHANGELOG documenting my cleaning and formatting process within Excel [CLICK HERE](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fpaschaldubem%2FBellabeat-Market-Analysis%2Frefs%2Fheads%2Fmain%2FBELLABEAT%2520CHANGE%2520LOG.docx&wdOrigin=BROWSELINK)
 
 For more details on cleaning and formatting check [Bellabeat case study]() 
 
