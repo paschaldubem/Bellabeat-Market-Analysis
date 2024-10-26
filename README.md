@@ -58,7 +58,7 @@ Importing and optimizing FitBit Fitness Tracker data sets involves the removal o
 
 I created a CHANGELOG documenting my cleaning and formatting process within Excel [CLICK HERE](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fpaschaldubem%2FBellabeat-Market-Analysis%2Frefs%2Fheads%2Fmain%2FBELLABEAT%2520CHANGE%2520LOG.docx&wdOrigin=BROWSELINK)
 
-For more details on cleaning and formatting check [Bellabeat case study]() 
+For more details on cleaning and formatting check [Bellabeat case study](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fpaschaldubem%2FBellabeat-Market-Analysis%2Frefs%2Fheads%2Fmain%2FBellabeat%2520case%2520study.docx&wdOrigin=BROWSELINK) 
 
 ## DATA ANALYSIS
 
