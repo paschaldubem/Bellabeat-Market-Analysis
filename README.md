@@ -117,7 +117,11 @@ To view more interactive charts and dashboards on Tableau [CLICK HERE](https://p
 
 ## CONCLUSION
 
-Based on my analysis, I've observed that users tend to be more active on weekdays compared to weekends, with Tuesdays being the peak day for activity. `Daily activity` shows peaks between 12 PM to 2 PM and 5 PM to 7 PM, while `nighttime exhibits` lower activity levels, likely indicating rest. It's worth noting that most Fitbit users do not achieve the recommended 8 hours of sleep, with a substantial number falling short of this target. Furthermore, I found a positive relationship between total steps and total calories, as calories burned is directly linked to the number of steps taken. However, it's essential to emphasize that correlation doesn't imply causation, meaning that total steps alone do not cause increased calorie burn and vice versa.
+Based on my analysis, I've observed that users tend to be more active on weekdays compared to weekends, with Tuesdays being the peak day for activity. Daily activity shows peaks between `12 PM to 2 PM and 5 PM to 7 PM`, while nighttime exhibits lower activity levels, likely indicating rest. 
+
+It's worth noting that most Fitbit users do not achieve the recommended 8 hours of sleep, with a substantial number falling short of this target. 
+
+Furthermore, I found a positive relationship between total steps and total calories, as calories burned is directly linked to the number of steps taken. However, it's essential to emphasize that correlation doesn't imply causation, meaning that total steps alone do not cause increased calorie burn and vice versa.
 
 ## RECOMMENDATIONS
   
