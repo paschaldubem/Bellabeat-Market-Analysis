@@ -51,18 +51,19 @@ Considering the datasets at my disposal, I intend to analyze user behavior prima
 The data originates from a reliable source, but it's worth noting that the sample size is quite small, comprising only 30 users over 31 days. This small sample size raises concerns about potential sampling bias. Additionally, an important caveat is the absence of any demographic information in the dataset.
 
 ## TOOLS USED
-I made use of Excel as my primary tool for data cleaning and manipulation due to its relative ease of use and accessibility and Tableau for visualization.
+I made use of `Excel` as my primary tool for data cleaning and manipulation due to its relative ease of use and accessibility and `Tableau` for visualization.
 
 ## IMPORTING DATASETS INTO EXCEL
 Importing and optimizing FitBit Fitness Tracker data sets involves the removal of redundant datasets and aggregation of essential datasets required for querying and analyzing specific information.  Considering my emphasis on identifying high-level trends in the data for analysis, I opted to import and exclusively utilize the *Dailyactivities_merged*, *SleepDay_merged* and *Hourlysteps_merged* datasets.
 
 I created a CHANGELOG documenting my cleaning and formatting process within Excel [CLICK HERE](https://github.com/paschaldubem/Bellabeat-Market-Analysis/blob/main/BELLABEAT%20CHANGE%20LOG.pdf)
 
-For more details on cleaning and formatting check [Bellabeat case study report]() 
+For more details on cleaning and formatting check [Bellabeat case study]() 
 
 ## DATA ANALYSIS
 
    - USER ID COUNT
+     
 When using pivot tables to go through the intended datasets to be analyzed, I discovered that although 30 user ids were the supposed ideal number of users documented, the actual user count found was slightly varied in my respective data sets; *Dailyactivity_merged* (33 users), Hourlysteps_merged* (33 users) and *Sleepday_merged* (24 users) respectively. 
 
 This discrepancy likely arises from several factors. In the case of the *dailyactivities* and *hourlysteps* datasets, the higher-than-expected number of users (33) could be attributed to certain users utilizing multiple smart devices. On the other hand, the lower-than-expected number of users (24) in the *Sleepday* dataset may result from some users choosing not to share their activity tracking information publicly. This variance in user counts can be attributed to these specific scenarios.
@@ -83,6 +84,7 @@ Utilizing the *dailyactivities_merged* dataset, I will construct a plot in table
 Based on the above plot, we can observe that, on average, Tuesday emerges as the most active day, while Sunday appears to be the least active. This discrepancy is likely influenced by the fact that Sunday is typically associated with being a day of rest and so many users are likely to be at home, engaging in less physical activity. Saturday, however, ranks closely behind Tuesday, possibly due to the weekend effect where people often engage in health-focused activities like running and exercising, leading to a notable increase in their overall activity levels.  On average, weekdays exhibit higher user engagement in various activities, as reflected by their average total daily steps.
 
    - AVERAGE HOURLY STEPS
+     
 Following my data analysis, I identified Tuesdays as the most active day of the week. Now, I will delve deeper to determine, on average, the most active hours of the day for the Fitbit users.
 
  ![Average hourly steps](https://github.com/user-attachments/assets/fdc24329-cccb-4312-9f89-6f48e2c98e01)
@@ -90,6 +92,7 @@ Following my data analysis, I identified Tuesdays as the most active day of the 
 The visualization provides a detailed breakdown of daily activity levels, focusing on the average steps taken by Fitbit users. It's evident that users are typically more active during daytime hours, starting from 8 a.m. and continuing until around 7 p.m. The activity levels tend to decrease after 8 p.m. On average, we observe peak activity during two distinct periods: from 12 p.m. to 2 p.m. and from 5 p.m. to 7 p.m. Interestingly, the least active time during the 24-hour period is at 3 a.m., which aligns with the common sleeping hours for most people.
 
    - USER SLEEP QUALITY
+     
 The duration of user sleep is a crucial parameter tracked by smart devices and holds a lot of significance health wise. Leveraging the available data, I constructed a visualization that provided deeper insights into user sleep patterns.
 
  ![Average user sleep duration](https://github.com/user-attachments/assets/749a9b62-77db-4470-ba44-38245a15211b)
@@ -98,6 +101,7 @@ The visualization above indicates a notable trend among Fitbit users, with the m
 he visualization above indicates a notable trend among Fitbit users, with the majority failing to attain sufficient sleep, as their average sleep durations consistently fall below the recommended daily 8-hour threshold.
 
 - CORRELATIONS
+  
 I will attempt to determine if there is a relationship between steps taken by users and the number of calories burnt.
 
 ![Daily average steps and Daily average calories burnt](https://github.com/user-attachments/assets/e79c8f60-b5c2-42bb-bf62-218b7b6f10f8)
