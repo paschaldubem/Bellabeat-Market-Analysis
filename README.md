@@ -45,7 +45,7 @@ The 18 CSV documents are available with each document representing different qua
 
 ## OBJECTIVES
 
-Considering the datasets at my disposal, I intend to analyze user behavior primarily within daily time frames to identify overarching trends. I will concentrate on examining the *daily activity* and *sleep datasets*, sorting and filtering them using an Excel spreadsheet.
+Considering the datasets at my disposal, I intend to analyze **User behavior** primarily within daily time frames to identify overarching trends. I will concentrate on examining the *daily activity* and *sleep datasets*, sorting and filtering them using an Excel spreadsheet.
 
 ## CREDIBILITY OF THE DATASET 
 The data originates from a reliable source, but it's worth noting that the sample size is quite small, comprising only 30 users over 31 days. This small sample size raises concerns about potential sampling bias. Additionally, an important caveat is the absence of any demographic information in the dataset.
